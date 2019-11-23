@@ -1,7 +1,6 @@
 {
-  "name": "rrweb",
+  "name": "parcel-rrml-boilerplate",
   "version": "0.1.0",
-  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
   "dependencies": {
     "react": "16.12.0",
     "react-dom": "16.12.0",
@@ -13,9 +12,8 @@
     "parcel-bundler": "1.12.4"
   },
   "license": "MIT",
-  "main": "index.js",
   "scripts": {
-    "clear": "rm -rf node_modules yarn.lock && yarn",
+    "clear": "sh ./scripts/clear.sh",
     "start": "parcel index.html --port 3000",
     "build": "parcel build index.html",
     "watch": "parcel watch index.html"

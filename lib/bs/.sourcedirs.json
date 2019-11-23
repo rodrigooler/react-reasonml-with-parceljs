@@ -1,1 +1,0 @@
-{ "dirs" : [ "src" ] , "pkgs" : [ [ "bs-platform" , "/home/oler/projects/brokerse/reasonml-brokerse/node_modules/bs-platform" ] , [ "reason-react" , "/home/oler/projects/brokerse/reasonml-brokerse/node_modules/reason-react" ] ] , "generated" : [] }

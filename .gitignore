@@ -1,1 +1,6 @@
 node_modules
+.merlin
+.yarn-integrity
+.cache/
+dist/
+lib/
